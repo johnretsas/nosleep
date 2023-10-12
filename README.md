@@ -15,8 +15,6 @@ Currently working only on intelx64 macOs. More versions to come.
 
 Download the latest release from the [releases page](https://github.com/johnretsas/nosleep/releases) and move the binary to a directory in your `PATH`.
 
-_(Replace `johnretsas` with your actual GitHub username)_
-
 **From Source**
 
 Ensure you have Rust and Cargo installed.
