@@ -3,7 +3,7 @@ use crossterm::{
     ExecutableCommand,
 };
 
-use std::io::{stdin, stdout, Stdout};
+use std::io::{stdout, Stdout};
 
 #[derive(PartialEq, Debug)]
 pub enum PrintCommand {
