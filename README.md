@@ -47,6 +47,6 @@ nosleep -k
 
 ### Check the remaining time for the active `nosleep` process:
 
-````bash
+```bash
 nosleep -l
 ```
