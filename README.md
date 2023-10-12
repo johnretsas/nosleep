@@ -45,7 +45,7 @@ This will prevent your Mac's display from sleeping for 120 minutes.
 nosleep -k
 ```
 
-Check the remaining time for the active nosleep process:
+### Check the remaining time for the active `nosleep` process:
 
 ````bash
 nosleep -l
